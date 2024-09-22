@@ -1,7 +1,7 @@
 Web Platform tested:
 https://www.politrip.com/
 
-Proof:
+DEMO (slow):
 https://www.youtube.com/watch?v=7K3IuLt0QFI
 
 Additional tests:
